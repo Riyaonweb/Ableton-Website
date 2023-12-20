@@ -1,6 +1,6 @@
 <h1>Ableton Website - Frontend Practice Level 1</h1>
 
-This project is a part of my Frontend Practice Level 1, aimed at my HTML, CSS, and JavaScript skills. This Website mimics the official Ableton website, showcasing a unique grid layout and a mega menu.
+This project is a part of my Frontend Practice Level 1, aimed at my HTML, CSS, and JavaScript skills. This Website mimics the official <a href="https://www.ableton.com/en/about/">Ableton website</a>, showcasing a unique grid layout and a mega menu.
 
 <h3>Features</h3>
 Unique Grid layout<br>
